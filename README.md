@@ -36,7 +36,7 @@ I'm a seasoned developer with a rich history in technology, starting my journey 
 ## 📫 Get in Touch
 
 - GitHub: [RandomArray](https://github.com/RandomArray)
-- LinkedIn: [Mike Johanning](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [Mike Johanning](https://www.linkedin.com/in/mikejohanning/)
 
 ![RandomArray's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomArray&show_icons=true&theme=dracula)
 
