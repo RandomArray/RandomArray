@@ -2,8 +2,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/RandomArray)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1290469688&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1290469688&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2c3c63&bar_color_cover=false)]]
-
 ## 🚀 About Me
 
 I'm a seasoned developer with a rich history in technology, starting my journey back in 1987 with the BASIC programming language. Over the years, I've worked with a variety of technologies and gained a wealth of experience in various areas.
@@ -51,3 +49,6 @@ _A few of the projects I've worked on. Feel free to check them out!_
 <!-- PROJECT-LIST:START -->
 <!-- PROJECT-LIST:END -->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290469688&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=373b72)](https://github.com/kittinan/spotify-github-profile)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290469688&unique=true)
