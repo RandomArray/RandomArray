@@ -1,4 +1,4 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=RandomArray&avatar=false&txt=A+full-stack)](https://github.com/Harman-Sandhu/github-readme-generator)
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=RandomArray&avatar=false&txt=A+full-stack+web+developer+and+a+software+engineer)](https://github.com/Harman-Sandhu/github-readme-generator)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomArray&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
