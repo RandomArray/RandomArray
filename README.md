@@ -6,15 +6,14 @@
 
 I'm a seasoned developer with a rich history in technology, starting my journey back in 1987 with the BASIC programming language. Over the years, I've worked with a variety of technologies and gained a wealth of experience in various areas.
 
-- 🔭 My first computer was a [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500), which ignited my passion for technology.
-- 💾 I later transitioned to a Packard Bell 486sx 25MHz PC. Over a period of a few years, I explored and learned MS-DOS 3, 4, 5, and 6, [DESQview](https://en.wikipedia.org/wiki/DESQview), and Windows 3.1 on this machine. My first hard drive was 40 megabytes, yes, mega-bytes.
+- 🔭 My journey in technology began with my first computer, a [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500), which sparked a lifelong passion for innovation.
+- 💾 I further developed my skills on a Packard Bell 486sx 25MHz PC, where I gained hands-on experience with various operating systems, including MS-DOS and Windows 3.1.
 - 🌱 I used to be a BBS SysOp for my own BBS called [Treasure Island BBS](http://bbslist.textfiles.com/619/), using [Renegade BBS software](https://renegadebbs.info/) circa 1994.
 - 💻 My programming languages and technologies include JavaScript, Python, PHP, HTML5, frontend, backend, and more!
-- 🌐 I have experience in networking, LAN, PfSense, and Low/High Voltage Wiring
-- 🛠️ My hardware skills include soldering, IoT, Raspberry Pi, ESP32, and ESP8266
-- ⚡ I'm passionate about Home Assistant, WLED, LedFx, and AI
-- 🎧 I enjoy using VirtualDJ and listening to EDM
-- 🤖 I'm excited about the future of AI, LLM, and OpenAI
+*   🌐 I have experience in networking, LAN, PfSense, Proxmox, and Low/High Voltage Wiring
+*   📡 My hardware skills include soldering, IoT, RPi, ESP32/8266
+*   🌍 I'm passionate about music and I love to DJ 
+*   📈 I'm excited about the future of AI, LLM, and OpenAI
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RandomArray&theme=dracula)
 
