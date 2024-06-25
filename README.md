@@ -91,8 +91,3 @@ Feel free to explore more about my projects and experiences on my [personal webs
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290469688&unique=true)
 
 ![](https://komarev.com/ghpvc/?username=RandomArray)
-
-{css}
-li {
-  line-height: 3;
-}
