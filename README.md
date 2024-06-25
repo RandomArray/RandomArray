@@ -90,8 +90,6 @@ Feel free to explore more about my projects and experiences on my [personal webs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomArray&layout=compact&theme=dracula)](https://github.com/RandomArray/github-readme-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290469688&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=373b72)](https://github.com/kittinan/spotify-github-profile)
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290469688&unique=true)
 
 ![](https://komarev.com/ghpvc/?username=RandomArray)
