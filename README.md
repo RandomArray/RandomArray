@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mike Johanning! 
 
 ### I'm a seasoned developer with a rich history in technology, starting my journey back in 1987 with the BASIC programming language. Over the years, I've worked with a variety of technologies and gained a wealth of experience in various areas.
-&nbsp;  
+
 - 🔭 My journey in technology began with my first computer, a [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500), which sparked a lifelong passion for innovation.
 &nbsp;  
 &nbsp;  
